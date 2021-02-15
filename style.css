@@ -24,7 +24,7 @@
 
 .head {
     width: 100px;
-    cursor: pointer;
+    cursor: default;
     margin-top: 3px;
     margin-left: -140px;
     padding-left: 40px;
