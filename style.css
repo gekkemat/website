@@ -7,7 +7,7 @@
 .achtergrond {
     width: 100%;
     height: 100vh;
-    background-image: url('background1.png');
+    background-image: url('pages/pictures/background1.png');
     background-size: cover;
     background-position: center;
 }
