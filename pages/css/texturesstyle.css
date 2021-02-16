@@ -58,5 +58,16 @@ body {
 
 .description {
     color: white;
-    font-size: 240%;
+    font-size: 190%;
+}
+
+.downloadlinks a {
+    text-decoration: none;
+    color: teal;
+    font-size: 300%;
+    padding-left: 500px;
+}
+
+.downloadlinks a:hover {
+    text-decoration: underline;
 }
