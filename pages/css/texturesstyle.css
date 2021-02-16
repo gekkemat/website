@@ -4,12 +4,8 @@
     font-family: sans-serif;
 }
 
-.achtergrond {
-    color: black;
-    width: 100%;
-    height: 100vh;
-    background-size: cover;
-    background-position: center;
+body {
+    background-color: black;
 }
 
 .navbar {
@@ -58,4 +54,9 @@
 
 .navbar ul li:hover::after {
     width: 100%;
+}
+
+.description {
+    color: white;
+    font-size: 240%;
 }
